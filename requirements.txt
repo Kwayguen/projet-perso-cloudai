@@ -1,0 +1,14 @@
+mlflow
+pandas
+numpy
+scikit-learn
+joblib
+boto3
+tensorflow
+fastapi
+uvicorn
+nest_asyncio
+python-multipart
+pydantic
+pyngrok
+azure-storage-blob
